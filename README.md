@@ -1,6 +1,4 @@
-# This is our first lesson 
-## This is a smaller text
-
-- item 1
-- item 2
-- item 3
+# Lesson 1 Yoobee web development course 
+### March 2024
+---
+- https://validator.w3.org
